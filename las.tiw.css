@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+img {
+    margin: 15%;
+    width: 334px;
+}
+footer {
+    color: #444;
+    font-family: monospace;
+}
